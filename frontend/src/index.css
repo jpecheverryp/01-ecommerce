@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* End Boilerplate */
+/* Start Custom */
+
+main {
+  min-height: 80vh;
+}
