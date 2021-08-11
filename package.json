@@ -1,0 +1,22 @@
+{
+  "name": "01-ecommerce",
+  "version": "1.0.0",
+  "description": "MERN ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpecheverryp/01-ecommerce.git"
+  },
+  "author": "Juan P Echeverry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpecheverryp/01-ecommerce/issues"
+  },
+  "homepage": "https://github.com/jpecheverryp/01-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
